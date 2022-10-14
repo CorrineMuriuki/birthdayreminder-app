@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/birthdayreminder-app/static/css/main.4694b1de.css",
+    "main.js": "/birthdayreminder-app/static/js/main.ca20558e.js",
+    "static/js/787.0d0362f3.chunk.js": "/birthdayreminder-app/static/js/787.0d0362f3.chunk.js",
+    "index.html": "/birthdayreminder-app/index.html",
+    "main.4694b1de.css.map": "/birthdayreminder-app/static/css/main.4694b1de.css.map",
+    "main.ca20558e.js.map": "/birthdayreminder-app/static/js/main.ca20558e.js.map",
+    "787.0d0362f3.chunk.js.map": "/birthdayreminder-app/static/js/787.0d0362f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4694b1de.css",
+    "static/js/main.ca20558e.js"
+  ]
+}
